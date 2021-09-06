@@ -13,6 +13,7 @@ Repositório focado no estudo de Java, abordando os principais conceitos.
  - [JRE](#jre)
 
 **<a name="what-is-java"></a>O que é Java?**
+
 **Java** é uma linguagem de programação segura de alto nível orientada a objetos e atualmente é uma das linguagens mais utilizadas do mundo. 
 Algumas de suas principais características são:
 
@@ -22,6 +23,7 @@ Algumas de suas principais características são:
  - Imperativa.
 
 **<a name="what-is-javac"></a>Javac**
+
 **Javac** é o compilador padrão do **Java** e faz parte do **JDK**. É ele quem cria o **bytecode** que vai ser utilizado pela **JVM**.
 
 **<a name="independence"></a>Como funciona a independência de plataforma?**
