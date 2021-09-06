@@ -34,9 +34,11 @@ O que acontece é que o **ByteCode** que é gerado pelo compilador Java (javac) 
 ![Esquema de Funcionamento da JVM](https://arquivo.devmedia.com.br/artigos/Allan_Romanato/JavaVirtualMachine/JavaVirtualMachine2.jpg)
 
  **<a name="jdk"></a> JDK**
+ 
 **Java Development Kit (JDK)** é um pacote disponibilizado pela Oracle que nos permite desenvolver uma aplicação Java.
 
 **<a name="jre"></a> JRE**
+
 o **Java Runtime Environment (JRE)** é o que possibilita que um programa Java seja executado em qualquer sistema operacional sem modificação.
 
 
