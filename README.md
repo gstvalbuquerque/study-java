@@ -25,9 +25,11 @@ Algumas de suas principais características são:
  - Imperativa.
 
 **<a name="what-is-javac"></a>Javac**
+
 **Javac** é o compilador padrão do **Java** e faz parte do **JDK**. É ele quem cria o **bytecode** que vai ser utilizado pela **JVM**.
 
 **<a name="independence"></a>Como funciona a independência de plataforma?**
+
 Através de um emulador conhecido como a **Máquina Virtual Java (JVM)** , o Java consegue ter a independência de plataforma. 
 Além de interpretar o código, a **JVM** também é responsável pela execução de pilhas, threads, gerenciamento de memória e etc.  
 O que acontece é que o **ByteCode** que é gerado pelo compilador Java (javac) é traduzido pela Virtual Machine para cada máquina em questão. 
